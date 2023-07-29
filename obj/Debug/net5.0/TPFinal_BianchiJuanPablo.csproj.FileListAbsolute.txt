@@ -1,0 +1,32 @@
+/Users/juanpbianchi/Documents/Cursos/Programación/MaxiPrograma/Curso C# Nivel 1/TPFinal_BianchiJuanPablo/bin/Debug/net5.0/TPFinal_BianchiJuanPablo
+/Users/juanpbianchi/Documents/Cursos/Programación/MaxiPrograma/Curso C# Nivel 1/TPFinal_BianchiJuanPablo/bin/Debug/net5.0/TPFinal_BianchiJuanPablo.deps.json
+/Users/juanpbianchi/Documents/Cursos/Programación/MaxiPrograma/Curso C# Nivel 1/TPFinal_BianchiJuanPablo/bin/Debug/net5.0/TPFinal_BianchiJuanPablo.runtimeconfig.json
+/Users/juanpbianchi/Documents/Cursos/Programación/MaxiPrograma/Curso C# Nivel 1/TPFinal_BianchiJuanPablo/bin/Debug/net5.0/TPFinal_BianchiJuanPablo.runtimeconfig.dev.json
+/Users/juanpbianchi/Documents/Cursos/Programación/MaxiPrograma/Curso C# Nivel 1/TPFinal_BianchiJuanPablo/bin/Debug/net5.0/TPFinal_BianchiJuanPablo.dll
+/Users/juanpbianchi/Documents/Cursos/Programación/MaxiPrograma/Curso C# Nivel 1/TPFinal_BianchiJuanPablo/bin/Debug/net5.0/TPFinal_BianchiJuanPablo.pdb
+/Users/juanpbianchi/Documents/Cursos/Programación/MaxiPrograma/Curso C# Nivel 1/TPFinal_BianchiJuanPablo/obj/Debug/net5.0/TPFinal_BianchiJuanPablo.csproj.AssemblyReference.cache
+/Users/juanpbianchi/Documents/Cursos/Programación/MaxiPrograma/Curso C# Nivel 1/TPFinal_BianchiJuanPablo/obj/Debug/net5.0/TPFinal_BianchiJuanPablo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juanpbianchi/Documents/Cursos/Programación/MaxiPrograma/Curso C# Nivel 1/TPFinal_BianchiJuanPablo/obj/Debug/net5.0/TPFinal_BianchiJuanPablo.AssemblyInfoInputs.cache
+/Users/juanpbianchi/Documents/Cursos/Programación/MaxiPrograma/Curso C# Nivel 1/TPFinal_BianchiJuanPablo/obj/Debug/net5.0/TPFinal_BianchiJuanPablo.AssemblyInfo.cs
+/Users/juanpbianchi/Documents/Cursos/Programación/MaxiPrograma/Curso C# Nivel 1/TPFinal_BianchiJuanPablo/obj/Debug/net5.0/TPFinal_BianchiJuanPablo.csproj.CoreCompileInputs.cache
+/Users/juanpbianchi/Documents/Cursos/Programación/MaxiPrograma/Curso C# Nivel 1/TPFinal_BianchiJuanPablo/obj/Debug/net5.0/TPFinal_BianchiJuanPablo.dll
+/Users/juanpbianchi/Documents/Cursos/Programación/MaxiPrograma/Curso C# Nivel 1/TPFinal_BianchiJuanPablo/obj/Debug/net5.0/refint/TPFinal_BianchiJuanPablo.dll
+/Users/juanpbianchi/Documents/Cursos/Programación/MaxiPrograma/Curso C# Nivel 1/TPFinal_BianchiJuanPablo/obj/Debug/net5.0/TPFinal_BianchiJuanPablo.pdb
+/Users/juanpbianchi/Documents/Cursos/Programación/MaxiPrograma/Curso C# Nivel 1/TPFinal_BianchiJuanPablo/obj/Debug/net5.0/TPFinal_BianchiJuanPablo.genruntimeconfig.cache
+/Users/juanpbianchi/Documents/Cursos/Programación/MaxiPrograma/Curso C# Nivel 1/TPFinal_BianchiJuanPablo/obj/Debug/net5.0/ref/TPFinal_BianchiJuanPablo.dll
+C:\Users\Juan Pablo Bianchi\documents\Cursos\Programación\MaxiPrograma\Curso C# Nivel 1\CSharp-1\TP Final Curso de C# Nivel 1\obj\Debug\net5.0\TPFinal_BianchiJuanPablo.csproj.AssemblyReference.cache
+C:\Users\Juan Pablo Bianchi\documents\Cursos\Programación\MaxiPrograma\Curso C# Nivel 1\CSharp-1\TP Final Curso de C# Nivel 1\obj\Debug\net5.0\TPFinal_BianchiJuanPablo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Pablo Bianchi\documents\Cursos\Programación\MaxiPrograma\Curso C# Nivel 1\CSharp-1\TP Final Curso de C# Nivel 1\obj\Debug\net5.0\TPFinal_BianchiJuanPablo.AssemblyInfoInputs.cache
+C:\Users\Juan Pablo Bianchi\documents\Cursos\Programación\MaxiPrograma\Curso C# Nivel 1\CSharp-1\TP Final Curso de C# Nivel 1\obj\Debug\net5.0\TPFinal_BianchiJuanPablo.AssemblyInfo.cs
+C:\Users\Juan Pablo Bianchi\documents\Cursos\Programación\MaxiPrograma\Curso C# Nivel 1\CSharp-1\TP Final Curso de C# Nivel 1\obj\Debug\net5.0\TPFinal_BianchiJuanPablo.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo Bianchi\documents\Cursos\Programación\MaxiPrograma\Curso C# Nivel 1\CSharp-1\TP Final Curso de C# Nivel 1\obj\Debug\net5.0\TPFinal_BianchiJuanPablo.dll
+C:\Users\Juan Pablo Bianchi\documents\Cursos\Programación\MaxiPrograma\Curso C# Nivel 1\CSharp-1\TP Final Curso de C# Nivel 1\obj\Debug\net5.0\refint\TPFinal_BianchiJuanPablo.dll
+C:\Users\Juan Pablo Bianchi\Documents\Cursos\Programación\MaxiPrograma\Curso C# Nivel 1\CSharp-1\TP Final Curso de C# Nivel 1\bin\Debug\net5.0\TPFinal_BianchiJuanPablo.exe
+C:\Users\Juan Pablo Bianchi\Documents\Cursos\Programación\MaxiPrograma\Curso C# Nivel 1\CSharp-1\TP Final Curso de C# Nivel 1\bin\Debug\net5.0\TPFinal_BianchiJuanPablo.deps.json
+C:\Users\Juan Pablo Bianchi\Documents\Cursos\Programación\MaxiPrograma\Curso C# Nivel 1\CSharp-1\TP Final Curso de C# Nivel 1\bin\Debug\net5.0\TPFinal_BianchiJuanPablo.runtimeconfig.json
+C:\Users\Juan Pablo Bianchi\Documents\Cursos\Programación\MaxiPrograma\Curso C# Nivel 1\CSharp-1\TP Final Curso de C# Nivel 1\bin\Debug\net5.0\TPFinal_BianchiJuanPablo.runtimeconfig.dev.json
+C:\Users\Juan Pablo Bianchi\Documents\Cursos\Programación\MaxiPrograma\Curso C# Nivel 1\CSharp-1\TP Final Curso de C# Nivel 1\bin\Debug\net5.0\TPFinal_BianchiJuanPablo.dll
+C:\Users\Juan Pablo Bianchi\Documents\Cursos\Programación\MaxiPrograma\Curso C# Nivel 1\CSharp-1\TP Final Curso de C# Nivel 1\bin\Debug\net5.0\TPFinal_BianchiJuanPablo.pdb
+C:\Users\Juan Pablo Bianchi\Documents\Cursos\Programación\MaxiPrograma\Curso C# Nivel 1\CSharp-1\TP Final Curso de C# Nivel 1\obj\Debug\net5.0\TPFinal_BianchiJuanPablo.pdb
+C:\Users\Juan Pablo Bianchi\Documents\Cursos\Programación\MaxiPrograma\Curso C# Nivel 1\CSharp-1\TP Final Curso de C# Nivel 1\obj\Debug\net5.0\TPFinal_BianchiJuanPablo.genruntimeconfig.cache
+C:\Users\Juan Pablo Bianchi\Documents\Cursos\Programación\MaxiPrograma\Curso C# Nivel 1\CSharp-1\TP Final Curso de C# Nivel 1\obj\Debug\net5.0\ref\TPFinal_BianchiJuanPablo.dll

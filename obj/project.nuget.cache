@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4h5htckoiSFG19TbLFb1ftRSPlmlPhgBeJlXiCGdYjjaHzB/ZGZYPg+v+sIkzbZtnU35NM0WuKTJ42oDOe6TSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Juan Pablo Bianchi\\Documents\\Cursos\\Programación\\MaxiPrograma\\Curso C# Nivel 1\\CSharp-1\\TP Final Curso de C# Nivel 1\\TPFinal_BianchiJuanPablo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Juan Pablo Bianchi\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Juan Pablo Bianchi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Juan Pablo Bianchi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Juan Pablo Bianchi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
